@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoN7NnBgI1cid+b6Oh25xB/jChcW/emuwyqwMxBgZhMdRnPAA5elyeJ2VHKkOGeVCTsP7yES1MTj10Kw9iMTTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guita\\source\\repos\\3750_speed_game\\SpeedGame\\SpeedGame\\SpeedGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guita\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
